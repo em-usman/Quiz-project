@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Quiz Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\result.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\result.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\result.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\result.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\quiz_start.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\quiz_start.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\quiz_start.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\quiz_start.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\frmwelcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\frmwelcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\frmwelcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\frmwelcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|s:\\quiz project\\quiz_project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9270632F-87D5-4EBB-B4BA-B85E60D7BCAD}|Quiz_Project\\Quiz_Project.vbproj|solutionrelative:quiz_project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.vb",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\Result.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\Result.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\Result.vb",
+              "RelativeToolTip": "Quiz_Project\\Result.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:15:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.vb [Design]",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\Result.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\Result.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\Result.vb [Design]",
+              "RelativeToolTip": "Quiz_Project\\Result.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:15:40.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz_start.vb",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\Quiz_start.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\Quiz_start.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\Quiz_start.vb",
+              "RelativeToolTip": "Quiz_Project\\Quiz_start.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:15:38.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quiz_start.vb [Design]",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\Quiz_start.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\Quiz_start.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\Quiz_start.vb [Design]",
+              "RelativeToolTip": "Quiz_Project\\Quiz_start.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:15:36.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmWelcome.vb",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\frmWelcome.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\frmWelcome.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\frmWelcome.vb",
+              "RelativeToolTip": "Quiz_Project\\frmWelcome.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:15:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmWelcome.vb [Design]",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\frmWelcome.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\frmWelcome.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\frmWelcome.vb [Design]",
+              "RelativeToolTip": "Quiz_Project\\frmWelcome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:15:26.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.vb",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\Login.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\Login.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\Login.vb",
+              "RelativeToolTip": "Quiz_Project\\Login.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:15:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "S:\\Quiz Project\\Quiz_Project\\Login.vb",
+              "RelativeDocumentMoniker": "Quiz_Project\\Login.vb",
+              "ToolTip": "S:\\Quiz Project\\Quiz_Project\\Login.vb [Design]",
+              "RelativeToolTip": "Quiz_Project\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:13:22.095Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
